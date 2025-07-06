@@ -1,0 +1,2 @@
+# Electronics_II_Assignment
+This python script will produce a JFET common gate configuration, Fig.7.23(b), Page: 436, Book: Electronic Devices and Circuit Theory By Robert L. Boylestad, Louis Nashelsky(11th Edition)
